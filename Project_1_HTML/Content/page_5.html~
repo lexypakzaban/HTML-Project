@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Colleges</title>
+	<meta author="Lexy">
+	<link rel="stylesheet"type="text/css" href="style.css"/>
+	<link href="https://fonts.googleapis.com/css?family=Assistant|Playfair+Display" rel="stylesheet">
+</head>
+
+<body>
+	<h1>LEXY PAKZABAN</h1>
+	
+	<!-- Menu-->
+	<ul id="menu">
+		<li><a href="../home.html">HOME</a>&nbsp;</li>
+		<li><a href="page_1.html">MOVIES</a>&nbsp;</li>
+		<li><a href="page_2.html">ACTIVITES</a>&nbsp;</li>
+		<li><a href="page_3.html">MUSIC</a>&nbsp;</li>
+		<li><a href="page_4.html">EDUCATION</a>&nbsp;</li>
+		<li><a href="page_5.html">COLLEGES</a>&nbsp;</li>
+		<li><a href="credits.html">CREDITS</a>&nbsp;</li>
+		
+	</ul>
+	
+	<h2>FAVORITE COLLEGES</h2>
+	<ol type="1">
+		<li><a href="http://www.usc.edu">University of Southern California</a></li>
+		<li><a href="http://www.utexas.edu">University of Texas</a></li>
+		<li><a href="http://www.vanderbilt.edu">Vanderbilt University</a></li>
+		<li><a href="http://www.emory.edu">Emory University</a></li>
+	</ol>
+	<p>I haven't gone college touring for myself yet, but these were my favorite colleges my family saw for my sister.</p>
+	
+	<img src="https://fanapeel.com/wp-content/uploads/logo_-university-of-southern-california-trojans-trojans-over-usc.png" height="200">
+	<img src="http://kokefm.com/wp-content/uploads/2016/10/longhorns.jpg" height="200">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vanderbilt_Commodores_logo.svg/2000px-Vanderbilt_Commodores_logo.svg.png" height="200">
+	<img src="https://www.logolynx.com/images/logolynx/38/38d8863db053cd91d880d2d981a01810.png" height="200">
+	
+	

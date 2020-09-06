@@ -1,0 +1,52 @@
+h1 {
+		font-size: 50px;
+		font-family: 'Playfair Display', serif;
+		font-weight: 100;
+		text-align: center;
+		color: #ff3399;
+	}
+
+h2 {
+		font-family: 'Playfair Display', serif;
+		font-weight: 100;
+		color: #ff3399;
+	}
+
+h3 {
+		font-family: 'Assistant', sans-serif;
+		color: pink;
+	}
+	
+body {
+		padding-bottom: 30px;
+		padding-left: 30px;
+		padding-right: 30px;
+		color: black;
+		font-size: 17px;
+		font-family: 'Assistant', sans-serif;
+		max-width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+		}
+	
+	
+#menu li{
+			display: inline
+			}
+
+#menu{
+		text-align: center;
+
+		}
+
+#menu li a{
+	font-family: 'Assistant', sans-serif;
+	color: hotpink;
+	font-weight: 100;
+	font-size: 20px;
+	text-decoration: none
+	}
+	
+li {
+	color: black;
+}

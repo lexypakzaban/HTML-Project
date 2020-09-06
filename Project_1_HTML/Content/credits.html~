@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Credits</title>
+	<meta author="Lexy">
+	<link rel="stylesheet"type="text/css" href="style.css"/>
+	<link href="https://fonts.googleapis.com/css?family=Assistant|Playfair+Display" rel="stylesheet">
+</head>
+
+<body>
+	<h1>LEXY PAKZABAN</h1>
+	
+	<!-- Menu-->
+	<ul id="menu">
+		<li><a href="../home.html">HOME</a>&nbsp;</li>
+		<li><a href="page_1.html">MOVIES</a>&nbsp;</li>
+		<li><a href="page_2.html">ACTIVITES</a>&nbsp;</li>
+		<li><a href="page_3.html">MUSIC</a>&nbsp;</li>
+		<li><a href="page_4.html">EDUCATION</a>&nbsp;</li>
+		<li><a href="page_5.html">COLLEGES</a>&nbsp;</li>
+		<li><a href="credits.html">CREDITS</a>&nbsp;</li>
+		
+	</ul>
+	
+	<h2>CREDITS</h2>
+	
+	<h3>On My Movies Page</h3>
+	
+	<p>Moonrise Kingdom</p>
+	<p>http://www.skidompha.org/wp-content/uploads/2018/06/kemi-mai-moonrise-kingdom_29712885964_o.jpg</p>
+	
+	<p>Napoleon Dynamite</p>
+	<p>https://images-na.ssl-images-amazon.com/images/I/517%2BX-fyl9L.jpg</p>
+	
+	<p>Lady Bird</p>
+	<p>https://images-na.ssl-images-amazon.com/images/I/91XUGLG97KL._SY679_.jpg</p>
+	
+	<p>Baby Driver</p>
+	<p>https://images-na.ssl-images-amazon.com/images/I/717QDxYBkbL._SY550_.jpg</p>
+	
+	
+	
+	<h3>On My Music Page</h3>
+	
+	<p>Mac DeMarco</p>
+	<p>https://img.apmcdn.org/ac72c0aeec70bf168da6752fbdfc10778ef3afa4/uncropped/e92644-20170426-mac-demarco.jpg</p>
+	
+	<p>Arctic Monkeys</p>
+	<p>https://static1.squarespace.com/static/5a52d2220abd04ec985c1ecb/t/5af8c0c28a922d061747af84/1526251722085/Arctic_monkeys1.jpg</p>
+	
+	<p>Kali Uchis</p>
+	<p>https://media2.fdncms.com/metrotimes/imager/u/original/5552970/kali_uchis2.jpg</p>
+	
+	<p>Tame Impala</p>
+	<p>https://e0af4153dabf8f9d6b2b-0afdb671d2fada65aba92528a1f1e10d.ssl.cf3.rackcdn.com/wp-content/uploads/2018/02/TameImpala-600x600.jpg?x74900</p>
+	
+	
+	<h3>On My Colleges Page</h3>
+	
+	<p>USC</p>
+	<p>https://fanapeel.com/wp-content/uploads/logo_-university-of-southern-california-trojans-trojans-over-usc.png</p>
+	
+	<p>UT</p>
+	<p>http://kokefm.com/wp-content/uploads/2016/10/longhorns.jpg</p>
+	
+	<p>Vanderbilt</p>
+	<p>https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vanderbilt_Commodores_logo.svg/2000px-Vanderbilt_Commodores_logo.svg.png</p>
+	
+	<p>Emory</p>
+	<p>https://www.logolynx.com/images/logolynx/38/38d8863db053cd91d880d2d981a01810.png</p>
+	
